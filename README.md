@@ -1,2 +1,3 @@
-# GYG-front
-GYG : Grow Your Green 프론트엔드 
+## GYG-front
+
+GYG : Grow Your Green 프론트엔드
